@@ -26,3 +26,11 @@
     font-size: 0.8rem !important;
     margin-top: 15px !important;
 }
+@media (max-width: 480) {
+    .infoBox__cases {
+        font-size: 1rem;
+    }
+    .infoBox__title {
+        font-size: 12px;
+    } 
+}
