@@ -17,7 +17,7 @@
 .infoBox__cases {
     color: #cc1034;
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     margin-bottom: 0.5rem;
 }
 .infoBox__total {
@@ -25,12 +25,4 @@
     font-weight: 700 !important;
     font-size: 0.8rem !important;
     margin-top: 15px !important;
-}
-@media (max-width: 480) {
-    .infoBox__cases {
-        font-size: 1rem;
-    }
-    .infoBox__title {
-        font-size: 12px;
-    } 
 }
