@@ -43,13 +43,6 @@ function Home() {
                     rating={5}
                     image="https://m.media-amazon.com/images/I/61W0a8kxbML._AC_UY218_.jpg" 
                 />
-                <Product 
-                    id="1232343"
-                    title="Lib Tech TRS HP Snowboard Mens"
-                    price={419.95}
-                    rating={5}
-                    image="https://images-na.ssl-images-amazon.com/images/I/71kHW-r%2BSGL._AC_SL1500_.jpg" 
-                />
             </div>
             <div className="home__row">
                 <Product 
@@ -58,6 +51,13 @@ function Home() {
                     price={486.00}
                     rating={5}
                     image="https://images-na.ssl-images-amazon.com/images/I/81Wt3h7-V2L._AC_SL1500_.jpg" 
+                />
+                <Product 
+                    id="1232343"
+                    title="Lib Tech TRS HP Snowboard Mens"
+                    price={419.95}
+                    rating={5}
+                    image="https://images-na.ssl-images-amazon.com/images/I/71kHW-r%2BSGL._AC_SL1500_.jpg" 
                 />
             </div>
         </div>
